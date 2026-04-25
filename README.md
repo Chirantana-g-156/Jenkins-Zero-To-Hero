@@ -92,6 +92,8 @@ Jenkins Installation is Successful. You can now starting using the Jenkins
 
 <img width="990" alt="Screenshot 2023-02-01 at 11 14 13 AM" src="https://user-images.githubusercontent.com/43399466/215961440-3f13f82b-61a2-4117-88bc-0da265a67fa7.png">
 
+JENKINS WORKFLOW BEFORE(OLD) VS NOW(MODERN)  
+
 <img width="1829" height="791" alt="Screenshot 2026-04-25 154640" src="https://github.com/user-attachments/assets/6c2d18ef-52d8-4297-8400-33821400e441" />
 
 
