@@ -96,20 +96,6 @@ JENKINS WORKFLOW BEFORE(OLD) VS NOW(MODERN)
 
 <img width="1829" height="791" alt="Screenshot 2026-04-25 154640" src="https://github.com/user-attachments/assets/6c2d18ef-52d8-4297-8400-33821400e441" />
 
-
-## Install the Docker Pipeline plugin in Jenkins:
-
-   - Log in to Jenkins.
-   - Go to Manage Jenkins > Manage Plugins.
-   - In the Available tab, search for "Docker Pipeline".
-   - Select the plugin and click the Install button.
-   - Restart Jenkins after the plugin is installed.
-   
-<img width="1392" alt="Screenshot 2023-02-01 at 12 17 02 PM" src="https://user-images.githubusercontent.com/43399466/215973898-7c366525-15db-4876-bd71-49522ecb267d.png">
-
-Wait for the Jenkins to be restarted.
-
-
 ## Docker Slave Configuration
 
 Run the below command to Install Docker
@@ -135,6 +121,22 @@ http://<ec2-instance-public-ip>:8080/restart
 ```
 
 The docker agent configuration is now successful.
+
+
+## Install the Docker Pipeline plugin in Jenkins:
+
+   - Log in to Jenkins.
+   - Go to Manage Jenkins > Manage Plugins.
+   - In the Available tab, search for "Docker Pipeline".
+   - Select the plugin and click the Install button.
+   - Restart Jenkins after the plugin is installed.
+   
+<img width="1392" alt="Screenshot 2023-02-01 at 12 17 02 PM" src="https://user-images.githubusercontent.com/43399466/215973898-7c366525-15db-4876-bd71-49522ecb267d.png">
+
+Wait for the Jenkins to be restarted.
+
+
+
 
 
 
